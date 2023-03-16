@@ -38,7 +38,7 @@ const router = createBrowserRouter(
       errorElement: <ErrorPage />,
     },
   ],
-  { basename: '/commerce' }
+  { basename: '/Cravings' }
 );
 function App() {
   return (
