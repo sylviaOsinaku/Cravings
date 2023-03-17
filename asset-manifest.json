@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Cravings/static/css/main.0e8c8546.css",
+    "main.js": "/Cravings/static/js/main.2862bf62.js",
+    "static/css/88.e68b40c3.chunk.css": "/Cravings/static/css/88.e68b40c3.chunk.css",
+    "static/js/88.18603c96.chunk.js": "/Cravings/static/js/88.18603c96.chunk.js",
+    "static/css/787.25bfd8c8.chunk.css": "/Cravings/static/css/787.25bfd8c8.chunk.css",
+    "static/js/787.cafed02f.chunk.js": "/Cravings/static/js/787.cafed02f.chunk.js",
+    "static/media/sad-face-emoji.gif": "/Cravings/static/media/sad-face-emoji.317d911d5dc07787f7ef.gif",
+    "static/media/cake-1.jpeg": "/Cravings/static/media/cake-1.7663c60811f9dd35971d.jpeg",
+    "static/media/cake-2.jpeg": "/Cravings/static/media/cake-2.7a731795a7c7648679fb.jpeg",
+    "static/media/doughnut-2.jpeg": "/Cravings/static/media/doughnut-2.3e39ced566c400fad404.jpeg",
+    "static/media/error.svg": "/Cravings/static/media/error.fae33cfdd0c410a8ec6b363d7f526bed.svg",
+    "static/media/cupcake-2.jpeg": "/Cravings/static/media/cupcake-2.74dad30d9d7e040cd9e0.jpeg",
+    "static/media/cupcake-1.jpeg": "/Cravings/static/media/cupcake-1.14016e311da69180c772.jpeg",
+    "static/media/doughnut-3.jpeg": "/Cravings/static/media/doughnut-3.49702107e1ff59e9571f.jpeg",
+    "index.html": "/Cravings/index.html",
+    "static/media/icon-cart.svg": "/Cravings/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
+    "static/media/icon-minus.svg": "/Cravings/static/media/icon-minus.f5073aa8273785ecf6b7811630782736.svg",
+    "static/media/icon-hamburger.svg": "/Cravings/static/media/icon-hamburger.8dcf47cc6f3180ad040f1173f3592504.svg",
+    "main.0e8c8546.css.map": "/Cravings/static/css/main.0e8c8546.css.map",
+    "main.2862bf62.js.map": "/Cravings/static/js/main.2862bf62.js.map",
+    "88.e68b40c3.chunk.css.map": "/Cravings/static/css/88.e68b40c3.chunk.css.map",
+    "88.18603c96.chunk.js.map": "/Cravings/static/js/88.18603c96.chunk.js.map",
+    "787.25bfd8c8.chunk.css.map": "/Cravings/static/css/787.25bfd8c8.chunk.css.map",
+    "787.cafed02f.chunk.js.map": "/Cravings/static/js/787.cafed02f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e8c8546.css",
+    "static/js/main.2862bf62.js"
+  ]
+}
